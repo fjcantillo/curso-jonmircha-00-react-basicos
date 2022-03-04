@@ -1,0 +1,9 @@
+.bg-react {
+  background-color: #4d68ec;
+  transition: background-color 0.5s ease-in-out;
+}
+.bg-sass:hover {
+  background-color: #bf408080;
+}
+
+/*# sourceMappingURL=Estilos.css.map */
